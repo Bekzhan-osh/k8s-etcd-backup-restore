@@ -1,6 +1,6 @@
-```
-[ETCD](https://rudimartinsen.com/2020/12/30/backup-restore-etcd/#backing-up-the-etcd-cluster)
 
+# [ETCD](https://rudimartinsen.com/2020/12/30/backup-restore-etcd/#backing-up-the-etcd-cluster)
+```
 Accessing the etcd cluster
 To interact with the etcd cluster we use the etcdctl binary which can be downloaded here. When run in Kubernetes we can access it through the etcd pods running on the control plane nodes
 
